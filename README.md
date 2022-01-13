@@ -1,2 +1,2 @@
 # Grab-Data-Set-Insights
-Descriptive Analysis of an example data set using pandas
+Data wrangling of an example data set in Jupyter Notebook
